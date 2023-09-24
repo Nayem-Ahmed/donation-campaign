@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/zfVgzvP/Rectangle-4287-1.png",
+      "title": "Education for Underprivileged Children",
+      "category": "Education",
+      "category_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_color": "#0052FF",
+      "description": "Support our campaign to provide quality education to underprivileged children and give them a chance for a brighter future.",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/g7PML9R/Rectangle-4287.png",
+      "title": "Clean Water for All",
+      "category": "Environment",
+      "category_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_color": "#FF444A",
+      "description": "Help us in providing access to clean and safe drinking water to communities in need, promoting a healthier environment.",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/vzmm9yB/Rectangle-4284.png",
+      "title": "Medical Aid for Vulnerable Populations",
+      "category": "Health",
+      "category_color": "#79C23F",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_button_color": "#79C23F",
+      "description": "Contribute to our campaign to provide essential medical supplies and healthcare services to vulnerable populations and save lives.",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/vxvTdnc/Rectangle-4287-2.png",
+      "title": "Hunger Relief for Families in Need",
+      "category": "Hunger",
+      "category_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_color": "#0052FF",
+      "description": "Join us in fighting hunger by providing meals and support to families in need, ensuring no one goes to bed hungry.",
+      "price": 15
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/g7PML9R/Rectangle-4287.png",
+      "title": "Animal Welfare and Adoption",
+      "category": "Animals",
+      "category_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_color": "#FF444A",
+      "description": "Support our campaign to rescue and care for animals, and promote responsible pet adoption and animal welfare.",
+      "price": 10
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/zfVgzvP/Rectangle-4287-1.png",
+      "title": "Disaster Relief and Rehabilitation",
+      "category": "Disaster Relief",
+      "category_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_color": "#0052FF",
+      "description": "Help us provide immediate relief and long-term rehabilitation for communities affected by natural disasters and emergencies.",
+      "price": 35
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/g7PML9R/Rectangle-4287.png",
+      "title": "Empowerment of Women and Girls",
+      "category": "Empowerment",
+      "category_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_color": "#FF444A",
+      "description": "Empower women and girls with education, skill development, and support, enabling them to lead fulfilling and independent lives.",
+      "price": 25
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/vxvTdnc/Rectangle-4287-2.png",
+      "title": "Environmental Conservation",
+      "category": "Environment",
+      "category_color": "#79C23F",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_button_color": "#79C23F",
+      "description": "Contribute to our campaign to protect and preserve the environment, promoting sustainability and a greener future.",
+      "price": 30
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/zfVgzvP/Rectangle-4287-1.png",
+      "title": "Support for Homeless Individuals",
+      "category": "Social Welfare",
+      "category_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_color": "#0052FF",
+      "description": "Help us provide shelter, food, and support to homeless individuals, giving them a chance to rebuild their lives.",
+      "price": 20
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/g7PML9R/Rectangle-4287.png",
+      "title": "Empowering Differently Abled Individuals",
+      "category": "Empowerment",
+      "category_color": "#FF444A",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "text_button_color": "#FF444A",
+      "description": "Support differently abled individuals with education, employment opportunities, and resources for enhanced quality of life.",
+      "price": 15
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/vzmm9yB/Rectangle-4284.png",
+      "title": "Arts and Culture Preservation",
+      "category": "Arts & Culture",
+      "category_color": "#79C23F",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_button_color": "#79C23F",
+      "description": "Preserve and promote arts and culture by supporting our campaign to fund art initiatives and cultural events.",
+      "price": 10
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/vxvTdnc/Rectangle-4287-2.png",
+      "title": "Community Development and Infrastructure",
+      "category": "Community Development",
+      "category_color": "#0052FF",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_button_color": "#0052FF",
+      "description": "Invest in community development projects, providing better infrastructure and facilities for a thriving and united community.",
+      "price": 35
+    }
+  ]
+  
